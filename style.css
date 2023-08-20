@@ -1,0 +1,10 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 6px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 144, 184, 0.5);
+}
